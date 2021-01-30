@@ -3,5 +3,5 @@ package com.zfz.util;
 public class FileUtils {
     private String address;
     private String filename;
-    private String filePaht;
+    private String filePath;
 }
